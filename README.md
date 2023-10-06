@@ -1,2 +1,0 @@
-# RingSpec
-sdk的Spec
